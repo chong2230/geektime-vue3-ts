@@ -43,3 +43,9 @@ https://blog.csdn.net/MZS_ym/article/details/108866013
 main.ts报错（ Cannot find module './App.vue'.）
 
 https://www.jianshu.com/p/55cc2fa5d434
+
+4. Type ‘string | string[]‘ is not assignable to type ‘string | undefined‘.
+
+加类型断言，值 as 类型）
+
+https://blog.csdn.net/weixin_48786946/article/details/107616922
